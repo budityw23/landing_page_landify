@@ -1,7 +1,7 @@
 import { Box } from '@chakra-ui/react';
 
-const CTA = () => {
+const Cta = () => {
   return <Box></Box>;
 };
 
-export { CTA };
+export { Cta };
